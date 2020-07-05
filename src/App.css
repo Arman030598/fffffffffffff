@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+input{
+    margin-right: 10px;
+}
+.Main{
+    display: flex;
+    justify-content: space-around;
+}
+.Main>div{
+    width: 40%;
+    margin: 0 auto;
+
+}
+nav a {
+    font-size: 40px;
+}
+nav>ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.active{
+    color: red;
+}
+h2  {
+    text-align: center;
+    color:greenyellow;
+}
+.red1{
+    border-color: red;
+}
+.red2{
+    border-color: red;
+}
+.font{
+    font-size: 60px;
+}
+.foo{
+    color:red;
+}
+.bgColor{
+    background-color: green;
+}
